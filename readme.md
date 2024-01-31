@@ -19,8 +19,10 @@
 
 ## c_cpp_properties.json 
 
-Use those rules in the file (Linux Example)
+Use those rules in the file 
 The objective is to add the include PATHs of the default libraries of arduino
+The name of the folders may vary depending on the versions of the libraries, IDE and OS.
+The example bellow is for Linux
 
 ```json
 {
